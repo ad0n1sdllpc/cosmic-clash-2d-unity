@@ -20,7 +20,7 @@ A 2D Unity arcade game inspired by Rayman Legends' Kung Foot and Head Soccer, fe
 
 There are three game modes available: football, volley and basket.
 
-<img src="ReadmeImages/menu.png" width="60%">
+<img src="ReadmeImages/mode.png" width="60%">
 
 #### Football
 
