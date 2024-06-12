@@ -5,7 +5,7 @@
 - [Demo](#demo)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
-- [Features](#features)
+- [Abilities](#abilities)
 
 ## About the Game
 A 2D Unity arcade game inspired by Rayman Legends' Kung Foot and Head Soccer, featuring cute alien characters. The game can be played against AI or in a 1v1 PVP local couch multiplayer mode. The goal is simple: two players aim to score by getting the ball into the opponent's goal. The first player to reach the defined score limit wins.
@@ -28,14 +28,14 @@ There are three game modes available: football, volley and basket.
 
 #### Volley
 
-<img src="ReadmeResources/volley.png" width="60%">
+<img src="ReadmeImages/volley.png" width="60%">
 
 There is a 7 second limit for how long the ball can be in the same area.
 If the limit is exceeded, the other player scores a point.
 
 #### Basket
 
-<img src="ReadmeResources/basket.png" width="60%">
+<img src="ReadmeImages/basket.png" width="60%">
 
 ## Installation
 Step-by-step instructions on how to get a development environment running.
@@ -50,16 +50,22 @@ Step-by-step instructions on how to get a development environment running.
     - Select the folder and click "Open".
 
 ## How to Play
-Explain the basic controls and objectives of the game.
 
-- **Move**: Arrow keys or WASD
-- **Jump**: Spacebar
-- **Attack**: Ctrl or Z
+Both keyboard and controller are supported, with the controller being the preferred method of play. You can switch inputs in the 'Controls' menu.
 
-## Features
-List the main features of the game.
+<img src="ReadmeImages/controls.png" width="40%">
 
-- Feature 1
-- Feature 2
-- Feature 3
+You can navigate the menu using either the mouse or the keyboard/controller. To change the goal limit, select the input field and enter the desired number or use the vertical navigation keys (W, S, up, down, LB).
 
+## Abilities
+
+The game offers three different abilities:
+
+- **Kick** - kick the ball, with a specific power and direction;
+<img src="ReadmeImages/kick.gif" width="40%" style="m`argin-bottom: 20px">
+
+- **Lift** - lift the ball (90 degrees angle);
+<img src="ReadmeImages/lift.gif" width="40%" style="margin-bottom: 20px">
+
+- **Stop** - stop the ball;
+<img src="ReadmeImages/stop.gif" width="40%" style="margin-bottom: 20px">
